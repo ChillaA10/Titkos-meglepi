@@ -1,2 +1,0 @@
-# Titkos-meglepi
-Meglepi oldal
